@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "3c1048febfb0dc0d971c150e",
+  "owner": "tkrqemkkn",
+  "repo": "page-a75f5e853e7ff88755c69486",
+  "title": "THE",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "a75f5e853e7ff88755c69486",
+      "a": "THE",
+      "b": "",
+      "entity": "THE",
+      "brand": "THE",
+      "separator": "",
+      "path": "index.html",
+      "hash": "4de73ad49d11a0cfce839500dc52c7996f2b96636649498591dd5f092a37f2e2",
+      "content": {
+        "keyword1": "THE",
+        "keyword2": "",
+        "primary_entity": "THE",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "THE 是面向个人与团队的机场订阅与 VPN 加速服务官网，提供多套餐流量、原生流媒体解锁、IPLC 游戏优化及各平台客户端下载与配置指引。",
+          "AI_DESCRIPTION": "THE 是面向个人与团队的机场订阅与 VPN 加速服务官网，提供多套餐流量、原生流媒体解锁、IPLC 游戏优化及各平台客户端下载与配置指引。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>:root{--bg:#FFF8F5;--card:#FFFFFF;--coral:#E85D4C;--coral-d:#C44536;--ink:#2B2B2B;--muted:#5C534F;--line:#F3D5CC;--soft:#FFF1EC}*{box-sizing:border-box;margin:0;padding:0}body{font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif;background:var(--bg);color:var(--ink);font-size:16px;line-height:1.75}a{color:var(--coral-d);text-decoration:underline}a:visited{color:#9A3B30}.wrap{width:100%;max-width:1080px;margin:0 auto;padding:0 16px}header{background:#fff;border-bottom:4px solid var(--coral);padding:14px 0}header .wrap{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:10px}.logo{font-weight:700;font-size:1.3rem;color:var(--coral-d);text-decoration:none}nav{display:flex;flex-wrap:wrap;gap:8px 14px;font-size:14px}nav a{text-decoration:none;color:var(--coral-d)}h1{font-size:clamp(1.48rem,4vw,2.05rem);line-height:1.35;margin:22px 0 12px;color:var(--coral-d)}h2{font-size:1.32rem;margin:28px 0 12px;color:var(--coral-d);padding-bottom:6px;border-bottom:2px solid var(--line)}h3{font-size:1.08rem;margin:14px 0 8px;color:var(--coral)}p{margin-bottom:10px}ul{padding-left:1.2em;margin-bottom:10px}li{margin-bottom:6px}.lead{color:var(--muted);font-size:1.04rem}.row{display:flex;flex-wrap:wrap;gap:16px;margin:18px 0;align-items:stretch}.row.rev{flex-direction:row-reverse}.col{flex:1 1 300px;background:var(--card);border:1px solid var(--line);border-radius:10px;padding:18px}.col.accent{background:var(--soft);border-color:var(--coral)}.plans{display:flex;flex-wrap:wrap;gap:14px;margin:16px 0}.plan{flex:1 1 240px;background:var(--card);border:2px solid var(--line);border-radius:12px;padding:18px}.plan.feat{border-color:var(--coral);background:var(--soft)}.badge{display:inline-block;background:var(--coral);color:#fff;font-size:12px;padding:2px 8px;border-radius:999px;margin-bottom:8px}.price{font-size:1.55rem;font-weight:700;color:var(--coral-d);margin:6px 0}.annual{font-size:13px;color:var(--muted);margin-bottom:10px}.step{display:flex;gap:12px;background:var(--card);border:1px solid var(--line);border-radius:10px;padding:14px;margin-bottom:12px}.step.alt{background:var(--soft);border-color:var(--coral)}.num{flex:0 0 36px;height:36px;border-radius:50%;background:var(--coral);color:#fff;display:flex;align-items:center;justify-content:center;font-weight:700}.step .body{flex:1 1 auto}.faq details{background:var(--card);border:1px solid var(--line);border-radius:8px;padding:12px 14px;margin-bottom:10px}.faq summary{font-weight:600;color:var(--coral-d)}.faq details p{margin-top:8px;color:var(--muted)}.chips{display:flex;flex-wrap:wrap;gap:8px 16px}.ad{background:var(--soft);border:1px dashed var(--coral);padding:14px;border-radius:8px;margin:22px 0;font-size:14px}footer{margin-top:28px;padding:20px 0 28px;border-top:1px solid var(--line);font-size:13px;color:var(--muted)}@media(max-width:720px){.row,.row.rev{flex-direction:column}nav{font-size:13px}}</style><header><div class=\"wrap\"><a class=\"logo\" href=\"#top\">THE</a><nav><a href=\"#intro\">品牌简介</a><a href=\"#plans\">套餐方案</a><a href=\"#scenes\">使用场景</a><a href=\"#guide\">配置流程</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a><a href=\"#map\">网站地图</a></nav></div></header><main class=\"wrap\" id=\"top\"><h1>THE 官方网站：机场订阅与 VPN 网络加速</h1><p class=\"lead\">THE 把机场订阅和 VPN 加速放在同一套可更新的节点体系里，用清晰套餐、订阅链接和多端客户端，帮你完成从开通到连上线路的全过程。本页是官网说明，聚焦套餐对照、使用场景、配置流程与官方下载指引。</p><section id=\"intro\"><h2>品牌简介</h2><div class=\"row\"><div class=\"col\"><p>THE 面向需要稳定跨境访问的个人与小团队，提供按月流量计费的机场订阅，并兼容主流 VPN / 代理客户端。你得到的不是锁死功能的单一应用，而是可在 Clash、Shadowrocket、Surge 等工具中导入的标准订阅，节点与规则由 THE 侧持续维护。</p><p>服务形态接近大家常说的梯子、加速器与网络加速通道：加密转发、分流规则、流媒体解锁和游戏向专线都在同一账户里按套餐开放。基础版侧重日常浏览与轻量视频，旗舰版补齐原生解锁与 IPLC 游戏优化，团队版放大设备数、带宽与对公支持。</p><p>官网职责是把价格、限制和操作步骤写清楚，避免用户在第三方群组里误下改装客户端。订阅链接、流量重置和工单入口以账户中心为准；本页用完整正文还原官方网站应有的阅读结构。</p></div><div class=\"col accent\"><h3>THE 能帮你做什么</h3><ul><li>用一条机场订阅同步多端节点，减少反复手动填协议</li><li>在网页、流媒体、会议和游戏之间按规则分流</li><li>按 100GB / 300GB / 1000GB 选择流量，避免一上来就买超大包</li><li>旗舰与团队线路含 IPLC 游戏优化和更高优先级支持</li><li>配置流程可复用：复制订阅、更新配置、测延迟、开系统代理</li></ul></div></div></section><section id=\"plans\"><h2>套餐方案</h2><p>三档套餐都提供极速流量与可同时在线的设备额度。年付价格按 10 个月计，适合已经验证过节点质量、准备长期使用 THE 机场的用户。旗舰版是大多数个人用户的默认选择。</p><div class=\"plans\"><article class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"plan feat\"><p class=\"badge\">推荐</p><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></div></section><section id=\"scenes\"><h2>使用场景</h2><div class=\"row\"><div class=\"col\"><h3>跨境办公与资料访问</h3><p>远程会议、代码托管、文献库和设计协作对丢包敏感。THE 普通线路覆盖常用亚太与北美出口，团队版可按网段做定制路由，把办公流量固定到指定节点，减少每个人各自找线路的成本。</p></div><div class=\"col accent\"><h3>流媒体与内容同步</h3><p>基础版满足常用平台的基础解锁；旗舰版强调全节点原生流媒体，适合追剧、直播备播和大文件同步。请以各平台实际版权与账号地区政策为准，网络加速只解决连通，不改变内容授权。</p></div></div><div class=\"row rev\"><div class=\"col\"><h3>对延迟敏感的游戏更新</h3><p>旗舰版 IPLC 专线游戏加速优化面向对战匹配与客户端更新，目标是缩短绕路跳数、压低抖动。它仍是合规的网络层通道，不是修改游戏数据的外挂。选节点时优先看游戏标注与实时延迟，而不是只看国家名字。</p></div><div class=\"col accent\"><h3>多设备家庭或实验室</h3><p>手机、电脑、盒子同时在线时，设备数比单月流量更容易先触顶。3 / 5 / 20 台的档位对应基础、旗舰与团队。实验室出口或共享路由建议直接看团队版的高带宽节点与客户经理沟通窗口。</p></div></div></section><section id=\"guide\"><h2>操作说明与配置流程</h2><p>THE 把「能连上」拆成可重复的五步。先完成套餐与订阅，再下载客户端，可避免安装一堆软件却找不到导入入口。以下流程对机场订阅和 VPN 加速器用法通用。</p><div class=\"step\"><div class=\"num\">1</div><div class=\"body\"><h3>对照需求选择套餐</h3><p>浏览、邮件和轻度视频走基础版 100GB / 3 设备即可。需要原生解锁、IPLC 游戏优化或 5 台终端，选旗舰版。设备超过 5 台、要定制路由或对公对接，再看团队版。开通后在账户中心复制订阅地址，后续所有客户端都用同一条链接更新。</p></div></div><div class=\"step alt\"><div class=\"num\">2</div><div class=\"body\"><h3>按系统下载客户端</h3><p>到本页「客户端下载」核对名称：Windows 常用 Clash Verge 或 v2rayN，macOS 常用 Clash 系或 Surge，iOS 常用 Shadowrocket / Stash / Quantumult X，Android 常用 Clash Meta。安装包只从系统商店或开发者发布页获取，THE 官网不捆绑来路不明的改装包。</p></div></div><div class=\"step\"><div class=\"num\">3</div><div class=\"body\"><h3>导入 THE 机场订阅</h3><p>在客户端的订阅、配置或 Profile 页粘贴链接，保存后立即更新节点。若工具区分 Clash、Surge、SIP008 或 SS 订阅，使用账户里对应格式，不要混用。更新成功后应看到按地区与用途分组的节点列表，而不是空白配置。</p></div></div><div class=\"step alt\"><div class=\"num\">4</div><div class=\"body\"><h3>测延迟、选节点、打开系统代理</h3><p>先对邻近地区和 IPLC 游戏节点做延迟检测，再开启 TUN 或系统 VPN。规则模式适合日常分流，全局模式留给必须走代理的软件。浏览器、终端和游戏各自观察出口是否符合预期，避免开了开关却仍走本地网络。</p></div></div><div class=\"step\"><div class=\"num\">5</div><div class=\"body\"><h3>验证解锁并养成维护习惯</h3><p>打开常用站点或流媒体检测页，确认地区与连通。流量在套餐周期内累计，可在官网查看余量。节点异常时先更新订阅再换线路；旗舰版享有 7x24 优先工单，团队版可找专属客户经理。不要把订阅链接发到公开群，以免设备数被占满。</p></div></div></section><section id=\"download\"><h2>客户端下载与官网指引</h2><div class=\"row\"><div class=\"col accent\"><h3>官方下载原则</h3><p>THE 提供机场订阅兼容，不强制唯一壳程序。所谓官方下载，指的是：在本页确认客户端名称与用途，再去苹果 App Store、Google Play 或该项目的正规发布页安装。任何「THE 专用破解加速器」安装包都与官网无关。</p><p>导入成功后，客户端只是外壳，线路质量仍由 THE 节点池决定。请把软件更新与订阅更新分开看待：系统升级客户端，账户中心升级套餐与流量。</p></div><div class=\"col\"><h3>各平台常用客户端</h3><ul><li>Windows：Clash Verge、v2rayN（<a href=\"#download\">下载说明</a>）</li><li>macOS：Clash 系客户端、Surge（<a href=\"#download\">下载说明</a>）</li><li>iOS：Shadowrocket、Stash、Quantumult X（<a href=\"#download\">下载说明</a>）</li><li>Android：Clash Meta for Android、Surfboard（<a href=\"#download\">下载说明</a>）</li><li>路由与其他：兼容 Clash / SIP008 订阅的设备可直接填同一链接</li></ul></div></div></section><section id=\"faq\" class=\"faq\"><h2>常见问题</h2><details><summary>THE 是机场还是 VPN？和梯子、加速器是什么关系？</summary><p>THE 按机场模式交付可更新的多节点订阅，同时支持你在各类 VPN / 代理客户端里一键连接，所以官网会同时出现 THE机场、THE VPN、梯子和网络加速这些说法。对使用者而言，核心都是加密通道加分流规则；差别在于套餐按流量与设备计费，而不是只卖一个无法更换节点的独立 App。</p></details><details><summary>没有网络基础，能独立完成配置流程吗？</summary><p>可以。你只需要复制订阅、在客户端粘贴并更新、选择节点后打开系统代理。iOS 首次连接要在系统设置里允许 VPN 配置，Android 会弹出连接请求，点允许即可。卡在某一步时，回到本页配置流程按序号重做，一般比在群里要临时文件更安全。</p></details><details><summary>客户端官方下载地址在哪里？THE 会不会强制安装自家软件？</summary><p>不会强制。THE 以订阅兼容为主。请在「客户端下载」核对名称后，前往系统官方商店或开发者站点获取安装包。官网下载指的是认准来源，而不是把来路不明的加速器安装器塞进页面。若有人发送「THE 绿色版」压缩包，直接忽略。</p></details><details><summary>基础版、旗舰版和团队版应该怎么选？</summary><p>看流量、同时在线设备和线路类型。每月约 100GB、3 台设备、基础流媒体，选基础版。需要 300GB、5 台设备、全节点原生解锁和 IPLC 游戏加速，选旗舰版。20 台设备、1000GB、VIP 高带宽、企业定制路由和客户经理，选团队版。年付相当于按 10 个月计，适合已经跑通过程的用户。</p></details><details><summary>节点覆盖哪些方向？晚高峰能不能当游戏加速器用？</summary><p>节点池包含东亚、东南亚、北美与欧洲常用城市，普通线路与高带宽、IPLC 游戏优化线路按套餐开放。晚高峰表现取决于跨境负载和你所在运营商，专线通常更稳，但任何加速器都无法承诺固定毫秒数。请以连接后的延迟检测和解锁结果为准，本页不编造评分或用户评论。</p></details><details><summary>流量用尽、设备超员或需要对公发票时怎么办？</summary><p>流量用尽后新连接会受限，可升级套餐或等待周期重置。超过同时在线台数可能被踢下线，请按 3 / 5 / 20 的额度规划。团队版便于对公沟通和定制路由；发票与账单细节在登录后的账户中心查看。本页只公开套餐与配置方法，不代替合同条款。</p></details></section><section class=\"ad\" id=\"ads\"><h2>广告</h2><p>THE 官网预留文字合作位置，面向云主机、跨境协作与正规网络工具类站点。当前为示意广告位，点击仅跳转页面顶部以检查移动端布局是否溢出。</p><p><a href=\"#top\">合作展示（示意链接）</a> · <a href=\"#guide\">配置流程合作说明</a></p></section><section id=\"friends\"><h2>友情链接</h2><div class=\"chips\"><a href=\"#intro\">THE 品牌简介</a><a href=\"#plans\">套餐对照</a><a href=\"#guide\">配置流程速查</a><a href=\"#download\">客户端兼容列表</a><a href=\"#faq\">机场订阅问答</a><a href=\"#map\">网站地图</a></div></section><section id=\"map\"><h2>网站地图</h2><ul class=\"chips\"><li><a href=\"#top\">首页标题</a></li><li><a href=\"#intro\">品牌简介</a></li><li><a href=\"#plans\">套餐方案</a></li><li><a href=\"#scenes\">使用场景</a></li><li><a href=\"#guide\">配置流程</a></li><li><a href=\"#download\">客户端下载</a></li><li><a href=\"#faq\">常见问题</a></li><li><a href=\"#ads\">广告</a></li><li><a href=\"#friends\">友情链接</a></li></ul></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap\"><p>© THE 官方网站。本页介绍 THE机场订阅、THE VPN 网络加速、客户端下载与配置流程，请通过正规渠道获取软件。</p><p><a href=\"#top\">返回顶部</a> · <a href=\"#\">canonical 官网地址</a></p></div></footer>",
+          "hash": "7565cd1e1c5b166a6c811d3845e3338d4619e6da05a6439316c21910d583ddc6",
+          "seo": {
+            "title": "THE 官方网站 | 机场订阅、VPN 网络加速与客户端下载",
+            "keywords": "THE,THE机场,THE VPN,THE加速器,梯子,网络加速,机场订阅,客户端下载,官网,官方下载,Clash,Shadowrocket,IPLC专线",
+            "description": "THE 是面向个人与团队的机场订阅与 VPN 加速服务官网，提供多套餐流量、原生流媒体解锁、IPLC 游戏优化及各平台客户端下载与配置指引。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "u50r294.cn",
+    "host": "p-9dfefef4ca.u50r294.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "u50r294.cn",
+      "url": "https://u50r294.cn/",
+      "label": "轻云(Qingyun)",
+      "apex": "u50r294.cn",
+      "kind": null,
+      "identity": "xw8fcne9/page-0e3fb186d80e0e4268f1c492"
+    },
+    {
+      "host": "empfvdi.cn",
+      "url": "https://empfvdi.cn/",
+      "label": "THE",
+      "apex": "empfvdi.cn",
+      "kind": null,
+      "identity": "qpbs6vkgf/page-ea0b5dc20630e3b88ea485eb"
+    },
+    {
+      "host": "feipangnan.cn",
+      "url": "https://feipangnan.cn/",
+      "label": "THE",
+      "apex": "feipangnan.cn",
+      "kind": null,
+      "identity": "dytj76/page-fff91d51d866781855861759"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "312cff1dc973ab0e0e345b3684df446744be767a628d8a8e29a5410e989f27e0",
+    "sitemap.xml": "384b00ce1afd07cbb10b7629a8166d77f69a2c10b622ecb2ad774987f510a998",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "621072a8106292d2ccbf3c5f692397382173652b2f8c7dae205f774c07321b98",
+    "robots.txt": "f389e2b821f27dfe3422b2b0b2afd9b6c13f4a311584ed7e5e568c84c89bf883",
+    "ebc67fe980a4eb9645cbbe578e4b20a7.txt": "c22dba8b2535c0a9f32d219a81d87367705f6c035d400e7270c54c78e451f393"
+  },
+  "revision": "22e440f43854fe683c1c416c47d37fe492067d8edb55c784c109b49466b08ee0"
+}
